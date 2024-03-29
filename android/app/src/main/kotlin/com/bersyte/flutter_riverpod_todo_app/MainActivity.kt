@@ -1,4 +1,4 @@
-package com.bersyte.flutter_riverpod_todo_app
+package com.gaurav8699.simpleTodo
 
 import io.flutter.embedding.android.FlutterActivity
 
